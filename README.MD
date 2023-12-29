@@ -1,8 +1,8 @@
 # Simple springboot rest app
 
-(Endpoint SQL Server)[http://localhost:8080/sql]
+[Endpoint SQL Server](http://localhost:8080/sql)
 
-(Endpoint DB2)[http://localhost:8080/db2]
+[Endpoint DB2](http://localhost:8080/db2)
 
 ## Prerequisites
 
